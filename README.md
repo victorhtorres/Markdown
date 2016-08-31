@@ -99,9 +99,7 @@ Encerramos el bloque de código con las tres tildes al revés ``` y le ponemos a
 ```plain
 
 | TITULO1| TITULO2|
-
 | ----- | ---- |
-
 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
 
 
